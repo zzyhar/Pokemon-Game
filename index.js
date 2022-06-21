@@ -174,8 +174,6 @@ function animate() {
         overlappingArea > (player.width * player.height) / 2 &&
         Math.random() < 0.01
       ) {
-        console.log("activate battle");
-
         //diactivate current animation loop
         window.cancelAnimationFrame(animationId);
 
@@ -192,6 +190,7 @@ function animate() {
               onComplete() {
                 //activate a new animation loop
                 animateBattle();
+                initBattle();
                 gsap.to("#overlappingDiv", {
                   opacity: 0,
                   duration: 0.4,
