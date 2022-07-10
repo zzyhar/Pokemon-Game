@@ -1,4 +1,4 @@
-# Pokemon-JavaScript-Game
+# Pokemon-Game
 
 
 ## JavaScript full responsive 2D Pokemon Game. 
