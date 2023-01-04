@@ -12,7 +12,7 @@ The moving animation is based on a moving map, according to the pressed key.
 
 # GitHub Pages: 
 
-This project is available on GitHub Pages: https://zzyhar.github.io/Poketmon-JavaScript-Game/
+This project is available on GitHub Pages: https://zzyhar.github.io/Poketmon-Game/
 
 ## Used Languages
   - JavaScript 
